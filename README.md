@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/Lucas7yoshi?template=classic&languages=1&lines=1&isocalendar=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FToronto)
+![Metrics](https://github.com/Lucas7yoshi/Lucas7yoshi/blob/master/github-metrics.svg)
