@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 */4 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -25,14 +25,6 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          plugin_activity: yes
-          plugin_activity_limit: 5           # Limit to 5 events
-          plugin_activity_load: 50          # Load up to 100 recent events from API (should be higher than "limit")
-          plugin_activity_days: 60           # Keep only events from last 14 days (set to 0 for no limit)
-          plugin_activity_filter: all        # Show all events (use table above to filter events types)
-          plugin_activity_visibility: public # Only display public events
-          plugin_activity_timestamps: yes    # Display events timestamps
-          plugin_activity_skipped: repo      # Ignored repositories
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics-right.svg
@@ -45,3 +37,11 @@ jobs:
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
           config_timezone: America/Toronto # Set timezone
+          plugin_activity: yes
+          plugin_activity_limit: 5           # Limit to 5 events
+          plugin_activity_load: 50          # Load up to 100 recent events from API (should be higher than "limit")
+          plugin_activity_days: 60           # Keep only events from last 14 days (set to 0 for no limit)
+          plugin_activity_filter: all        # Show all events (use table above to filter events types)
+          plugin_activity_visibility: public # Only display public events
+          plugin_activity_timestamps: yes    # Display events timestamps
+          plugin_activity_skipped: repo      # Ignored repositories
