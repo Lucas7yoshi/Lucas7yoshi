@@ -37,8 +37,10 @@ jobs:
         with:
           filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }} # Required
-          plugin_tweets_attachments: no                    # Display tweets attachments (images, preview urls, etc.)
-          plugin_tweets_limit: 6                     # Limit to 2 tweets
-          plugin_tweets_user: Lucas7yoshi
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 30      # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+          config_timezone: America/Toronto # Set timezone
