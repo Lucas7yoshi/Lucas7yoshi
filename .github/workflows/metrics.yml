@@ -37,6 +37,7 @@ jobs:
         with:
           filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
           plugin_habits_days: 30      # Keep only events from last 14 days
