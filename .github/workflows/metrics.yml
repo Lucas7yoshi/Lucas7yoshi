@@ -11,6 +11,7 @@ jobs:
     steps:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
+        name: Metric Left
         with:
           # Your GitHub token
           filename: metrics-left.svg
@@ -26,6 +27,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
       - uses: lowlighter/metrics@latest
+        name: Metrics Right
         with:
           filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
