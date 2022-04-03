@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="904" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="864" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -194,38 +194,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#1339 Crash on closing the Resource Monitor</span>
+                                        <span class="issue">#1366 Streamed assets are inaccessible to Rockstar Editor when started from within server</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by BerkieBb in <span class="repo">citizenfx/fivem</span></div>
-                                    <div class="comment">I sanity checked on the same server that I initially had it and didn't have a crash. due to the fact I had to remote into my computer to test that I will wait until I am home to properly test it.</div>
-                                </div>
-                                <div class="timestamp">24 Mar 2022, 09:16:10</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1339 Crash on closing the Resource Monitor</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by BerkieBb in <span class="repo">citizenfx/fivem</span></div>
+                                    <div>opened by Lucas7yoshi in <span class="repo">citizenfx/fivem</span></div>
                                     <div class="comment">
-                                        <i>
-                                            <i>but maybe it's specifically clicking the x button as opposed to closing it by typing resmon 0..?</i>
-                                            NAK, this also works fine here
-                                        </i>
-                                        Huh, if there's anything I can do to try and get more information let me know, not sure what more than the crash IDs above could do tho
+                                        <i>As such, the only case here that would require further investigation or reproduction steps (including actual assets involved!) is this:</i>
+                                        Reproduced reliably without the use of NoEditorRestrictions
+In the test resource i created with a cube, the streaming attempt only occurred when the .ytyp definitions for the model had been loaded but NOT the drawable itself. 
+This occurs in a very small region between when the ytyp is loaded and the model is "preloaded", but i believe this range would be stretched wider for SLOD's which was the original situation that occurred without clearing cache (however was with a escrow encrypted resource that i do not have access to)
+Video: 
+https://user-images.githubusercontent.com/28872095/161400501-e9faefab-2221-4af9-86d4-224004e1c161.mp4
+Resource (Includes rockstar editor commands): https://sx.l7y.ca/repro1366.7z
+For ease of direct comparison these are my distance scaling settings
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Mar 2022, 08:47:59</div>
+                                <div class="timestamp">2 Apr 2022, 16:47:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -236,101 +221,73 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#1339 Crash on closing the Resource Monitor</span>
+                                        <span class="issue">#1366 Streamed assets are inaccessible to Rockstar Editor when started from within server</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by BerkieBb in <span class="repo">citizenfx/fivem</span></div>
+                                    <div>opened by Lucas7yoshi in <span class="repo">citizenfx/fivem</span></div>
+                                    <div class="comment">So an easy way to reproduce this is to utilize NoEditorRestrictions to move the camera all the way to a map asset, however im not sure if that would be of concern considering that well, removed all restrictions. 
+I am already attempting to consistently repro it done without it though.</div>
+                                </div>
+                                <div class="timestamp">2 Apr 2022, 16:06:25</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1366 Streamed assets are inaccessible to Rockstar Editor when started from within server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Lucas7yoshi in <span class="repo">citizenfx/fivem</span></div>
+                                    <div class="comment">I'll look to capture a clip that reproduces the map asset streaming in Rockstar Editor but not gameplay but I do warn it'll be finicky and may take time to do consistently</div>
+                                </div>
+                                <div class="timestamp">2 Apr 2022, 14:43:38</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1366 Streamed assets are inaccessible to Rockstar Editor when started from within server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Lucas7yoshi in <span class="repo">citizenfx/fivem</span></div>
                                     <div class="comment">
-                                        <i>
-                                            <i>Got another repro
-
-Open resource monitor before joining server
-Close resource monitor once loaded in
-Crash</i>
-                                            I've seen it reported in this way before, but the weird thing indeed is that this actually doesn't work to repro here:
-                                            <code class="language-multiline" xml:space="preserve">1. I open the game, and write `resmon 1`.
-
-<span class="token trimmed">(3 more lines were trimmed)</span></code>
-                                            The same goes for 'start a resource and close', as well as other repros mentioned here as they match what I saw in past reports, too.
-                                        </i>
-                                        I am not able to test right now but maybe it's specifically clicking the x button as opposed to closing it by typing resmon 0..?
+                                        <i>Opening the replay editor while connected to a server is the exact same as opening the replay editor when not connected to a server: the process of opening the editor actually disconnects from the server.</i>
+                                        My belief of their being a difference stemmed from the handling of escrow encrypted assets when launching the editor from within a server (that being that they actually load). 
+I guess the ending part of my original issue comes in with the log file getting filled very rapidly being probably the only "resolvable" minor issue
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Mar 2022, 08:44:12</div>
+                                <div class="timestamp">2 Apr 2022, 14:42:28</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#1339 Crash on closing the Resource Monitor</span>
+                                        Opened
+                                        <span class="issue">#1366 Streamed assets are inaccessible to Rockstar Editor when started from within server</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by BerkieBb in <span class="repo">citizenfx/fivem</span></div>
-                                    <div class="comment">Got another repro
-
-Open resource monitor before joining server
-Close resource monitor once loaded in
-Crash
-
-Video: https://sx.l7y.ca/2022-03-23_09-49-34.mp4
-Crash signature: citizen-devtools.dll+13AAC
-Report ID: si-b6f9e4023a9448d5af9ab1bd27e071fc
-Note: This occured without the closing and reopening of it midload aswell.</div>
+                                    <div>opened  in <span class="repo">citizenfx/fivem</span></div>
                                 </div>
-                                <div class="timestamp">23 Mar 2022, 09:53:45</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1339 Crash on closing the Resource Monitor</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by BerkieBb in <span class="repo">citizenfx/fivem</span></div>
-                                    <div class="comment">Reproduced by doing the following:
-
-Start resource
-Open resource monitor
-Stop resource
-Close resource monitor using the X button at the top right
-Crash
-
-Video: https://sx.l7y.ca/2022-03-23_09-36-06.mp4
-Also reproduced by doing the following:
-
-Open resource monitor
-Start resource
-Close resource monitor
-Crash
-
-No video
-Crash Report:
-Crash signature: citizen-devtools.dll+13AAC
-Report ID: si-5c514e1679304bc8900c1ca3750d3e13
-Additional notes:
-
-I did not get a crash window following the first reproduction
-Seems to be related to the addition or removal of entries in the list?
-
-Given the reputation nvidia drivers have with fivem, hardware may be of relevance:
-Ryzen 7 3700x
-GTX 1060 6GB - Driver 497.29
-Windows 11 Home</div>
-                                </div>
-                                <div class="timestamp">23 Mar 2022, 09:47:39</div>
+                                <div class="timestamp">2 Apr 2022, 14:28:32</div>
                             </section>
                         </div>
                     </section>
