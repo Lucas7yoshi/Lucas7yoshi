@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1222" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1515" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.licenses{display:flex}.licenses .column{align-items:flex-start;font-size:12px;color:#666;flex-shrink:0}.licenses .column:nth-child(1){margin-left:13px;width:25%}.licenses .column:nth-child(2){width:25%}.licenses .column:nth-child(3){width:50%}.licenses .column svg{height:12px;width:12px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -12,7 +12,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 45 commits)</small>
+                    <small class="h-details">(computed from last 46 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -33,8 +33,8 @@
                             00
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             01
                         </div>
                         <div class="entry">
@@ -179,8 +179,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">3</span>
-                                <div class="bar" style="height: 9.375px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4</span>
+                                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -1923,6 +1923,200 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 73 commits in
+                                        <span class="repo">Lucas7yoshi/fivem</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add/getallvehiclemodels</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a013f12</div>
+                                        <div class="message">Merge remote-tracking branch 'disquse/fivem-vish-2612'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f907d10</div>
+                                        <div class="message">feat(scripting/mono): display .NET GC events in `profiler`
+
+Requested via https://forum.cfx.re/t/4863518/6 to at least provide some
+insight into these hangs.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc221a2</div>
+                                        <div class="message">tweak(client): amend bundled Mono
+
+This variant merges in some SGen GC changes from Mono 5.4 and 5.8 so the
+'mode:pause' stuff used in client code will work.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de2d79b</div>
+                                        <div class="message">feat(game/rdr3): support -rglLanguage argument for Steam licenses
+
+Game code will prefer the Steam language name if any present/supported
+language is returned by such, and it seems for quite a few people this
+happens to be set to English at all times.
+
+Fixes #1475.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#118f782</div>
+                                        <div class="message">fix(client): remove dependency on ETWProviders64
+
+This isn't really used anymore and some users are failing load of this
+library for unknown reasons.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4584d5c</div>
+                                        <div class="message">fix(scripting/lua): smart result type hints
+
+This should fix another case of type confusion abuse, but may also be a
+compatibility concern (especially if people manually call InvokeNative
+for a 'wrong' type coercion).
+
+Needs monitoring for people asking ideally on both canary and beta.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d104306</div>
+                                        <div class="message">fix(scripting/core): TRIGGER_EVENT_INTERNAL null-payload check
+
+Some scripts using internal APIs would potentially trip this, and that's
+invalid.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab4f7cf</div>
+                                        <div class="message">fix(vendor): rename 32-bit nvapi .lib
+
+This conflicted with the name in premake.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dab8154</div>
+                                        <div class="message">tweak(client): reduce amount of needed ros_* files (attempt 2)
+
+We don't actually load SCUI in the bundled CEF from the SC SDK, so it is
+a bit redundant to download ~50 MB of additional files to support this.
+
+Instead, we will return the correct versions (and presence) from a hook
+to satisfy the file corruption checks in the main SC SDK library.
+
+This is a respin of d933897a05567ad72e4ab901df9004192220e06c but with a
+fix for RedM failing to initialize.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c853413</div>
+                                        <div class="message">Revert "tweak(client): reduce amount of needed ros_* files"
+
+Somehow broke RDR and I currently don't have the energy to investigate
+why or even add #ifdef statements.
+
+This reverts commit d933897a05567ad72e4ab901df9004192220e06c.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bc9478</div>
+                                        <div class="message">fix(scripting/lua): less conditional scrString mitigation
+
+This needs a better fix sometime (only allowing scrString for natives
+that actually use it) but for now this'll have to do.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02d4a21</div>
+                                        <div class="message">tweak(vish): compatibility with b2612</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b256f1f</div>
+                                        <div class="message">fix(nui/core): potential NUIClient lifetime issue
+
+This does not lead to any runtime issues at this time, but if some code
+would act a bit differently, the reference would be released before it
+is even correctly assigned.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d933897</div>
+                                        <div class="message">tweak(client): reduce amount of needed ros_* files
+
+We don't actually load SCUI in the bundled CEF from the SC SDK, so it is
+a bit redundant to download ~50 MB of additional files to support this.
+
+Instead, we will return the correct versions (and presence) from a hook
+to satisfy the file corruption checks in the main SC SDK library.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4534059</div>
+                                        <div class="message">fix(native-decls): GetVehicleDoorLockStatus note
+
+As reported in https://forum.cfx.re/t/4863241, the sync node doesn't use
+a separate value for 0 and 1.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd26340</div>
+                                        <div class="message">tweak(build): add Node.js v12 for native build
+
+Various new 16.x and 18.x versions are having the GC issue with node FFI
+again, so instead we'll do the same the v18 fix did except pin it to use
+v12.x which is the last version before the broken array buffer refactor.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd2bf68</div>
+                                        <div class="message">fix(streaming/five): memory leak in compressed texture fix
+
+It turns out that allocator #1 gets ignored by the multiallocator free
+routine, leading to a memory leak when the `script_rt_` workaround is
+tripped.
+
+Instead, use the `0x10` free flag which will explicitly free from the #1
+allocator.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#621dd51</div>
+                                        <div class="message">fix(ext/cfx-ui): filter help box styling tweaks
+
+Even though old cfx-ui is getting deprecated soon, people asked about
+this help box on the forums (https://forum.cfx.re/t/4862609) where it
+looked as if the user didn't understand the `~` due to the font used by
+UI nowadays having a very unclear tilde.
+
+As such, we change the font for the 'example' to be monospaced, and also
+fix the white space next to the ` - ` being ignored.
+
+Both are likely styling oversights when the 2020.2 theme was initially
+implemented.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d4899d</div>
+                                        <div class="message">tweak(mumble/server): increase some limits
+
+DEFAULT_MAX_BANDWIDTH being increased fix some clients having loss of voice issues, listeningUsers increased to 256 is an oversight from PR #1083</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04af423</div>
+                                        <div class="message">feat(mumble/server): new server config options</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">29 Jul 2022, 01:58:07</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">add/getallvehicilemodelsbackup</span>
+                                        in
+                                        <span class="repo">Lucas7yoshi/fivem</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">29 Jul 2022, 01:55:20</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1972,41 +2166,6 @@
 relevant though is this https://github.com/citizenfx/fivem/pull/1476 PR which returns all the vehicle names. but I still feel this is more about some specific script</div>
                                 </div>
                                 <div class="timestamp">23 Jul 2022, 11:26:54</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">dexyfex/OpenMapTools</span>
-                                        to
-                                        <span class="repo">Lucas7yoshi/OpenMapTools</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jul 2022, 10:15:21</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1517 gta5_b2612</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by DARKAOFF in <span class="repo">citizenfx/fivem</span></div>
-                                    <div class="comment">if you have specific reproduction steps which are very clearly absent here than it would fit here
-otherwise this is just asking for support which is not what GitHub issues are for</div>
-                                </div>
-                                <div class="timestamp">2 Jul 2022, 03:06:00</div>
                             </section>
                         </div>
                     </section>
