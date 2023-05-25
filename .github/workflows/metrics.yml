@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 1 * * *"}]
+  schedule: [{cron: "0 3 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -34,7 +34,7 @@ jobs:
           base: ""
           plugin_habits: yes
           plugin_habits_from: 750       # Use 200 events to compute habits
-          plugin_habits_days: 30      # Keep only events from last 14 days
+          plugin_habits_days: 45      # Keep only events from last 14 days
           plugin_habits_facts: yes      # Display facts section
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
