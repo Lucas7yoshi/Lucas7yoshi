@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1498" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1728" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -12,14 +12,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 4 commits)</small>
+                    <small class="h-details">(computed from last 8 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 300.3 characters per line of code written</li>
-                        <li>Mostly pushes code around 02:00</li>
-                        <li>Mostly active on Sunday</li>
+                        <li>Has approximately 41.6 characters per line of code written</li>
+                        <li>Mostly pushes code around 23:00</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -29,7 +29,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             02
                         </div>
                         <div class="entry">
@@ -74,7 +74,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             11
                         </div>
                         <div class="entry">
@@ -89,12 +89,12 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             14
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             15
                         </div>
                         <div class="entry">
@@ -114,8 +114,28 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             19
+                        </div>
+                        <div class="entry">
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            20
+                        </div>
+                        <div class="entry">
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            21
+                        </div>
+                        <div class="entry">
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            22
+                        </div>
+                        <div class="entry">
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            23
                         </div>
                     </div>
                 </div>
@@ -125,22 +145,22 @@
                         <div class="chart-bars">
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
+                                <span class="value">4</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">2</span>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -588,6 +608,7 @@
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -2027,113 +2048,35 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">Lucas7yoshi/CodeWalker</span>
+                                        Opened
+                                        <span class="issue">#8 Add some anim scene types that do not follow fw prefix</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b55458b</div>
-                                        <div class="message">Ynd research V2 by fish-cfx
-Some refactoring and adjustments by dexy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d229366</div>
-                                        <div class="message">Merge pull request #217 from rollschuh2282/master
-
-edit portal flags, add names</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4cd57db</div>
-                                        <div class="message">fix too long text</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d294e6</div>
-                                        <div class="message">update Portal flag names</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11591fa</div>
-                                        <div class="message">Merge pull request #216 from alexguirre/fix/clip-hash-escaping
-
-Escape ClipBase.Hash when writing XML</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#427116e</div>
-                                        <div class="message">Merge pull request #215 from ook3D/master
-
-Updated more .ypt Unknowns</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7542dab</div>
-                                        <div class="message">Escape ClipBase.Hash when writing XML
-
-Some YCDs have special characters in the clip hash, which causes
-the XML to be invalid.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65c9778</div>
-                                        <div class="message">Update Unknown_7Ch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4cdf694</div>
-                                        <div class="message">Updated more .ypt Unknowns</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7bc3630</div>
-                                        <div class="message">Update Ytyp Archetype Flags and Fix for Generate Capsule LODLight and Fix for Capsule HDLight (#205)
-
-* Update EditYtypArchetypePanel.Designer.cs
-
-64 - Unk07 archetype flag: disable sorting for shaders with alpha. Used for glass objects, has a bug of drawing through objects in a mirror and a white glare strip in specular shaders
-524288 - Unk20 archetype flag: plays YCD animation on Dynamic objects. Works on objects with 131072 - Dynamic
-
-* Fix for Generate Capsule LODLight
-
-* Fix for Generate Capsule LODLight
-
-* Fix for Capsule HDLight</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#595bb9a</div>
-                                        <div class="message">Add Support for D3DFMT_X8R8G8B8 (#214)
-
-This would "fix" the exported xml from having "22" in the embedded texture's format block.
-In before this 22 prevents the xml file from importing into blender via Sollumz, caused the common error "KeyError:22" when some people editing weird-making mods.</div>
-                                    </div>
+                                    <div> in <span class="repo">cpmodding/Codex.Games.RDR2.strings</span></div>
+                                    <div>1 file changed <span class="code">++14 --0</span></div>
                                 </div>
-                                <div class="timestamp">29 Oct 2023, 02:52:36</div>
+                                <div class="timestamp">15 Nov 2023, 15:46:20</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">ultrahacx/blender_rayfirev</span>
+                                        Created new
+                      branch
+                                        <span class="code">c-prefix-animscene</span>
+                                        in
+                                        <span class="repo">Lucas7yoshi/Codex.Games.RDR2.strings</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Oct 2023, 15:30:08</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">seerge/g-helper</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">11 Sept 2023, 20:57:46</div>
+                                <div class="timestamp">15 Nov 2023, 15:45:57</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -2143,131 +2086,220 @@ In before this 22 prevents the xml file from importing into blender via Sollumz,
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 26 commits in
-                                        <span class="repo">Lucas7yoshi/CodeWalker</span>
+                                        Pushed 18 commits in
+                                        <span class="repo">Lucas7yoshi/Codex.Games.RDR2.strings</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#44878ff</div>
-                                        <div class="message">Merge pull request #210 from alexguirre/fix-drawables
+                                        <div class="sha">#a544fee</div>
+                                        <div class="message">SLOD3 #dd naming schema</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9d0453</div>
+                                        <div class="message">SLOD2 #dd naming schema</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f592d9</div>
+                                        <div class="message">LOD #dd naming schema
 
-Auto-calculate drawables blocks size fields</div>
+thanks to dexyfex, rollschuh2282 and cp</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e39ac3a</div>
-                                        <div class="message">Merge pull request #209 from Lucas7yoshi/master
+                                        <div class="sha">#f4a4269</div>
+                                        <div class="message">more grassy areas in filenames</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bbd411</div>
+                                        <div class="message">bound and drawable names
 
-Order clips in ycd files alphabetically to improve readability</div>
+thanks to rollschuh2282</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#378e66e</div>
-                                        <div class="message">Merge pull request #204 from coltfox/bvh-extents-calc
+                                        <div class="sha">#c8e6030</div>
+                                        <div class="message">even more bounds/horse avoidance names
 
-Correctly calculate BVH item extents</div>
+thanks to dexyfex</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#734a7d9</div>
-                                        <div class="message">Merge pull request #203 from coltfox/octants
+                                        <div class="sha">#1b7a05e</div>
+                                        <div class="message">bounds/horse avoidance names
 
-Calculate Octants during XML import, Auto calculate Vertices2 (Vertices shrunk by margin), Rename Vertices2 to VerticesShrunk</div>
+thanks to dexyfex</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bbcbc90</div>
-                                        <div class="message">Merge pull request #201 from alexguirre/frame-filters
+                                        <div class="sha">#ab1cd41</div>
+                                        <div class="message">a subset of bound names
 
-Support YFD XML import/export</div>
+thanks to rollschuh2282</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#eddd2c7</div>
-                                        <div class="message">Merge pull request #192 from Disquse/fix-transform-multiply
+                                        <div class="sha">#ccc3dc7</div>
+                                        <div class="message">Merge pull request #7 from ook3D/main
 
-Fix renderable transform multiply</div>
+Misc strings and doortuning.ymt flags</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c863cc1</div>
-                                        <div class="message">Merge pull request #185 from cpmodding/master
+                                        <div class="sha">#e971e61</div>
+                                        <div class="message">Misc strings and doortuning.ymt flags</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e8acc3</div>
+                                        <div class="message">sorted and cleaned up file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b04a3c</div>
+                                        <div class="message">mp ui texture names</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#861d714</div>
+                                        <div class="message">Merge pull request #4 from ook3D/main
 
-updated entity sets names for los santos drug wars DLC</div>
+trainconfigs.ymt strings</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#62a430a</div>
-                                        <div class="message">Merge pull request #177 from FumaPraQue/master
+                                        <div class="sha">#037d3fe</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/ook3D/Codex.Games.RDR2.strings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#233f930</div>
+                                        <div class="message">trainconfigs.ymt strings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5656caf</div>
+                                        <div class="message">valentine lod buildings names</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#989a9be</div>
+                                        <div class="message">Merge pull request #2 from Lucas7yoshi/physicstasks
 
-Fix importing occlusions from .ymap files</div>
+some physicstasks</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ce3a0aa</div>
-                                        <div class="message">tweak(); updated Unknowns to correct names</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6cf3c27</div>
-                                        <div class="message">Rename ClipTag.Unknown40/44 to Start/EndPhase
-
-These fields contain the phase range (time normalized between 0 and 1) during which the tag is active.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#118305e</div>
-                                        <div class="message">Fix crashes due to malicious RPFs
-
-RpfFile:
-- Limit RPF entry names to 256 characters because long names can cause the RPFExplorer to freeze when opening its directory.
-- Skip RPFs with paths longer that 5000 characters, which are probably an attempt to make CW run out-of-memory.
-
-ExploreForm:
-- Use `Path.GetExtension` directly instead of `FileInfo` to prevent `PathTooLongException`s.
-- Check for invalid characters in file names to prevent `ArgumentException`s.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1dd9bc3</div>
-                                        <div class="message">Auto-calculate drawables blocks size fields
-
-`ShaderGroup.ShaderGroupBlocksSize` (aka `Unknown_30h`) contains the byte size divided by 16 of the ShaderGroup block and its children blocks, when they are packed contiguously in the resource file.
-
-`DrawableBase.DrawableModelsBlocksSize` (aka `Unknown_9Ah`) is similar but with the size of the `DrawableModelsBlock`.
-
-Incorrect values can cause crashes when the model is unloaded.
-
-Discussed here https://discord.com/channels/329138547833700352/329142468102586368/1139264754767122533</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b074b4</div>
-                                        <div class="message">Correctly calculate BVH item extents</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91ab5bd</div>
-                                        <div class="message">Rename Vertices2 to VerticesShrunk</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9137f8a</div>
-                                        <div class="message">Auto calculate Vertices2 (Vertices shrunk by margin)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0c4221</div>
-                                        <div class="message">Calculate Octants during XML import</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#071251e</div>
-                                        <div class="message">Support YFD XML import/export</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4bc8561</div>
-                                        <div class="message">Fix renderable transform multiply</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9829cb9</div>
-                                        <div class="message">updated entity sets names for los santos drug wars DLC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0f23de</div>
-                                        <div class="message">Fix importing occlusions from .ymap files
-
-Occlude Models from imported .ymap files was not being recognized properly.
-The triangles count being shown on Project window was always being 0.</div>
+                                        <div class="sha">#0f9736f</div>
+                                        <div class="message">some physicstasks</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Aug 2023, 12:59:18</div>
+                                <div class="timestamp">15 Nov 2023, 15:43:31</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Lucas7yoshi/natives</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add/against_traffic_native</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9eb7f9c</div>
+                                        <div class="message">Change name</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">14 Nov 2023, 23:39:58</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 176 commits in
+                                        <span class="repo">Lucas7yoshi/natives</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add/against_traffic_native</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f6236c1</div>
+                                        <div class="message">tweak(KnockOffPedProp): remove blogspot link</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ebe3777</div>
+                                        <div class="message">tweak(IsPedComponentVariationValid): add parameter descriptions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c47f92</div>
+                                        <div class="message">tweak(GetPedTextureVariation): remove blogspot link and add native reference</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#954d4ed</div>
+                                        <div class="message">tweak(GetPedPropTextureIndex): remove blogspot link and add native reference</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3657fb</div>
+                                        <div class="message">tweak(GetPedPropIndex): remove blogspot link and add native reference</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c639bc5</div>
+                                        <div class="message">tweak(GetPedPaletteVariation): remove blogspot link and add native reference</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#739d869</div>
+                                        <div class="message">tweak(GetNumberOfPedTextureVariations): remove blogspot link and add native reference</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3816b51</div>
+                                        <div class="message">tweak(GetNumberOfPedPropTextureVariations): remove blogspot link and add native reference</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d521405</div>
+                                        <div class="message">tweak(GetNumberOfPedPropDrawableVariations): remove blogspot link and add native reference</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f475cf3</div>
+                                        <div class="message">tweak(GetNumberOfPedDrawableVariations): remove blogspot link and add native reference</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72be78e</div>
+                                        <div class="message">tweak(ClearPedProp): remove blogspot link and add native reference</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1522f2b</div>
+                                        <div class="message">tweak(ClearAllPedProps): remove blogspot link</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc5e16d</div>
+                                        <div class="message">tweak(SetPedComponentVariation): add native references to parameter descriptions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecc5e52</div>
+                                        <div class="message">tweak(SetPedPropIndex): move ped props here</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5290572</div>
+                                        <div class="message">tweak(SetPedComponentVariation): remove props from component native</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b07754</div>
+                                        <div class="message">fix(IsPedComponentVariationValid): replace blogspot link with native reference</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aad3a91</div>
+                                        <div class="message">Add a description to the parameter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90dfc3a</div>
+                                        <div class="message">Clarify native</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d76957b</div>
+                                        <div class="message">fix(SetPedComponentVariation): replace link to component/prop IDs with gamecode enum</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81c66fc</div>
+                                        <div class="message">Update SetPedRagdollOnCollision.md</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">14 Nov 2023, 23:36:54</div>
                             </section>
                         </div>
                     </section>
