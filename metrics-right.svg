@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1026" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1504" class="">
     <defs>
         <style/>
     </defs>
@@ -12,7 +12,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 29 commits)</small>
+                    <small class="h-details">(computed from last 31 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -88,8 +88,8 @@
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -159,8 +159,8 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -283,6 +283,7 @@
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1715,6 +1716,331 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Lucas7yoshi/Ryujinx</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c406af5</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">6 Mar 2024, 12:09:51</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1325 commits in
+                                        <span class="repo">Lucas7yoshi/Ryujinx</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1fd5cf2</div>
+                                        <div class="message">Fix ListOpenContextStoredUsers and stub LoadOpenContext (#3718)
+
+* Fix ListOpenContextStoredUsers and stub LoadOpenContext
+
+* Remove nonsensical comment</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#814f751</div>
+                                        <div class="message">Fpsr and Fpcr freed. (#3701)
+
+* Implemented in IR the managed methods of the Saturating region ...
+
+... of the SoftFallback class (the SatQ ones).
+
+The need to natively manage the Fpcr and Fpsr system registers is still a fact.
+
+Contributes to https://github.com/Ryujinx/Ryujinx/issues/2917 ; I will open another PR to implement in Intrinsics-branchless the methods of the Saturation region as well (the SatXXXToXXX ones).
+
+All instructions involved have been tested locally in both release and debug modes, in both lowcq and highcq.
+
+* Ptc.InternalVersion = 3665
+
+* Addressed PR feedback.
+
+* Implemented in IR the managed methods of the ShlReg region of the SoftFallback class.
+
+It also includes the last two SatQ ones (following up on https://github.com/Ryujinx/Ryujinx/pull/3665).
+
+All instructions involved have been tested locally in both release and debug modes, in both lowcq and highcq.
+
+* Fpsr and Fpcr freed.
+
+Handling/isolation of Fpsr and Fpcr via register for IR and via memory for Tests and Threads, with synchronization to context exchanges (explicit for SoftFloat); without having to call managed methods. Thanks to the inlining work of the previous two PRs and others in this.
+
+Tests performed locally in both release and debug modes, in both lowcq and highcq, with FastFP to true and false (explicit FP tests included). Tested with the title Tony Hawk's PS.
+
+Depends on shlreg.
+
+* Update InstEmitSimdHelper.cs
+
+* De-magic Masks.
+
+Remove the Stride and Len flags; Fpsr.NZCV are A32 only, then moved to Fpscr: this leads to emitting less IR in reference to Get/Set Fpsr/Fpcr/Fpscr methods in reference to Mrs/Msr (A64) and Vmrs/Vmsr (A32) instructions.
+
+* Addressed PR feedback.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c0eb91</div>
+                                        <div class="message">Convert Quads to Triangles in Vulkan (#3715)
+
+* Add Index Buffer conversion for quads to Vulkan
+
+Also adds a reusable repeating pattern index buffer to use for non-indexed
+draws, and generalizes the conversion cache for buffers.
+
+* Fix some issues
+
+* End render pass before conversion
+
+* Resume transform feedback after we ensure we're in a pass.
+
+* Always generate UInt32 type indices for topology conversion
+
+* No it's not.
+
+* Remove unused code
+
+* Rely on TopologyRemap to convert quads to tris.
+
+* Remove double newline
+
+* Ensure render pass ends before stride or I8 conversion</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da75a9a</div>
+                                        <div class="message">OpenGL: Fix blit from non-multisample to multisample texture (#3596)
+
+* OpenGL: Fix blit from non-multisample to multisample texture
+
+* New approach for multisample copy using compute shaders</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41790aa</div>
+                                        <div class="message">Avalonia - Misc changes to UX (#3643)
+
+* Change navbar from compact to default and force text overflow globally
+
+* Fix settings window
+
+* Fix right stick control alignment
+
+* Initialize value and add logging for SDL IDs
+
+* Fix alignment of setting text and improve borders
+
+* Clean up padding and size of buttons on controller settings
+
+* Fix right side trigger alignment and correct styling
+
+* Revert axaml alignment
+
+* Fix alignment of volume widget
+
+* Fix timezone autocompletebox dropdown height
+
+* MainWindow: Line up volume status bar item
+
+* Remove margins and add padding to volume widget
+
+* Make volume text localizable.
+
+Co-authored-by: merry &lt;git@mary.rs&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0cb1e92</div>
+                                        <div class="message">Allow bindless textures with handles from unbound constant buffer (#3706)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f03955</div>
+                                        <div class="message">Avalonia - Use embedded window for avalonia (#3674)
+
+* wip
+
+* use embedded window
+
+* fix race condition on opengl Windows
+
+* fix glx issues on prime nvidia
+
+* fix mouse support win32
+
+* clean up
+
+* addressed review
+
+* addressed review
+
+* fix warnings
+
+* fix sotware keyboard dialog
+
+* Update Ryujinx.Ava/Ui/Applet/SwkbdAppletDialog.axaml.cs
+
+Co-authored-by: gdkchan &lt;gab.dark.100@gmail.com&gt;
+
+* remove double semi
+
+Co-authored-by: gdkchan &lt;gab.dark.100@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9f1ff3</div>
+                                        <div class="message">Implemented in IR the managed methods of the ShlReg region of the SoftFallback class. (#3700)
+
+* Implemented in IR the managed methods of the Saturating region ...
+
+... of the SoftFallback class (the SatQ ones).
+
+The need to natively manage the Fpcr and Fpsr system registers is still a fact.
+
+Contributes to https://github.com/Ryujinx/Ryujinx/issues/2917 ; I will open another PR to implement in Intrinsics-branchless the methods of the Saturation region as well (the SatXXXToXXX ones).
+
+All instructions involved have been tested locally in both release and debug modes, in both lowcq and highcq.
+
+* Ptc.InternalVersion = 3665
+
+* Addressed PR feedback.
+
+* Implemented in IR the managed methods of the ShlReg region of the SoftFallback class.
+
+It also includes the last two SatQ ones (following up on https://github.com/Ryujinx/Ryujinx/pull/3665).
+
+All instructions involved have been tested locally in both release and debug modes, in both lowcq and highcq.
+
+* Update InstEmitSimdHelper.cs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a77af4c</div>
+                                        <div class="message">Readme: Fix broken shell image (#3708)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbcf802</div>
+                                        <div class="message">A32/T32/A64: Implement Hint instructions (CSDB, SEV, SEVL, WFE, WFI, YIELD) (#3694)
+
+* OpCodeTable: Implement Hint instructions (CSDB, SEV, SEVL, WFE, WFI, YIELD)
+
+* A64: Remove catch-all Hint instruction
+
+* T16: Handle unallocated hint instructions
+
+Some thumb tests execute these assuming that they're nops.
+
+* T32: Fill out other Hint instructions
+
+* A32: Fill out other hint instructions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3c41fa</div>
+                                        <div class="message">Periodically Flush Commands for Vulkan (#3689)
+
+* Periodically Flush Commands for Vulkan
+
+NVIDIA's OpenGL driver has a built-in mechanism to automatically flush commands to GPU when a lot have been queued. It's also pretty inconsistent, but we'll ignore that for now.
+
+Our Vulkan implementation only submits a command buffer (flush equivalent) when it needs to. This is typically when another command buffer needs to be sequenced after it, presenting a frame, or an edge case where we flush around GPU queries to get results sooner.
+
+This difference in flush behaviour causes a notable difference between Vulkan and OpenGL when we have to wait for commands. In the worst case, we will wait for a sync point that has just been created. In Vulkan, this sync point is created by flushing the command buffer, and storing a waitable fence that signals its completion. Our command buffer contains _every command that we queued since the last submit_, which could be an entire frame's worth of draws.
+
+This has a huge effect on CPU &lt;-&gt; GPU latency. The more commands in a command buffer, the longer we have to wait for it to complete, which results in wasted time. Because we don't know when the guest will force us to wait, we always want the smallest possible latency.
+
+By periodically flushing, we ensure that each command buffer takes a more consistent, smaller amount of time to execute, and that the back of the GPU queue isn't as far away when we need to wait for something to happen. This also might reduce time that the GPU is left inactive while commands are being built.
+
+The main affected game is Pokemon Sword, which got significantly faster in overworld areas due to reduced waiting time when it flushes a shadow map from the main GPU thread.
+
+Another affected game is BOTW, which gets faster depending on the area. This game flushes textures/buffers from its game thread, which is the bottleneck.
+
+Flush latency and throughput may be improved on other games that are inexplicably slower than OpenGL. It's possible that certain games could have their performance _decreased_ slightly due to flushes not being free, but it is unlikely.
+
+Also, flushing to get query results sooner has been tweaked to improve the number of full draw skips that can be done. (tested in SMO)
+
+* Remove unused variable
+
+* Fix possible issue with early query flush</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#356e480</div>
+                                        <div class="message">Fix partial unmap reprotection on Windows (#3702)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e119a1</div>
+                                        <div class="message">Implement PLD and SUB (imm16) on T32, plus UADD8, SADD8, USUB8 and SSUB8 on both A32 and T32 (#3693)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e05bf90</div>
+                                        <div class="message">T32: Implement Asimd instructions (#3692)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66f16f4</div>
+                                        <div class="message">Fix bindless 1D textures having a buffer type on the shader (#3697)
+
+* Fix bindless 1D textures having a buffer type on the shader
+
+* Shader cache version bump</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#729ff53</div>
+                                        <div class="message">Fix increment on Arm32 NEON VLDn/VSTn instructions with regs &gt; 1 (#3695)
+
+* Fix increment on Arm32 NEON VLDn/VSTn instructions with regs &gt; 1
+
+* PPTC version bump
+
+* PR feedback</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2492e7e</div>
+                                        <div class="message">Fix R4G4B4A4 format on Vulkan (#3696)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36172ab</div>
+                                        <div class="message">Scale SamplesPassed counter by RT scale on report (#3680)
+
+* Scale SamplesPassed counter by RT scale on report
+
+Adds a scale factor for samples passed counter report based on the render target scale at the time. This ensures that when a game reads this counter, it appears similar to the result at 1x.
+
+This doesn't cover cases where the the render target scale changes during the queried draws, though that might be better to handle along with other scope related issues in a future rework of counters. Games generally don't count for occlusion queries over render target changes anyways.
+
+Fixes an issue in the Splatoon games where the special charge would scale too quickly at high res, points at the end of the game would be broken (but still provide a correct winner), and playing at a low res would make it impossible to swim in ink.
+
+May also affect LOD scaling in The Witcher 3.
+
+* Update Ryujinx.Graphics.Gpu/Engine/Threed/SemaphoreUpdater.cs
+
+Co-authored-by: gdkchan &lt;gab.dark.100@gmail.com&gt;
+
+Co-authored-by: gdkchan &lt;gab.dark.100@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d69286</div>
+                                        <div class="message">Implement VRINT (vector) Arm32 NEON instructions (#3691)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1529e6c</div>
+                                        <div class="message">T32: Add Vfp instructions (#3690)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">6 Mar 2024, 12:09:15</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
