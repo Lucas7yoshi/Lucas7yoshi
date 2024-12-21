@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1416" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1123" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -542,6 +542,7 @@
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1982,6 +1983,24 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#3019 feat(scripting/v8): support unpacking Lua vectors</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by thelindat in <span class="repo">citizenfx/fivem</span></div>
+                                    <div class="comment">I'm being nosey but i'd tend to agree that sounds like the kind of thing that would be best put behind a new manifest version beyond cerulean</div>
+                                </div>
+                                <div class="timestamp">19 Dec 2024, 21:22:31</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#2934 Severe regression of weapon/gunfire syncing in 3258</span>
                                     </div>
                                 </div>
@@ -2047,141 +2066,6 @@ https://github.com/user-attachments/assets/906cfd45-088d-4f50-99cc-36f5a4de5428
                                     </div>
                                 </div>
                                 <div class="timestamp">8 Dec 2024, 04:49:44</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1844 commits in
-                                        <span class="repo">Lucas7yoshi/fivem</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a5cd9d1</div>
-                                        <div class="message">feat(mono-v2): Enable mono v2 on RedM</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#400dec2</div>
-                                        <div class="message">Merge fix(server): out of band handler (mr-272)
-
- - 9eabf2847 fix(server): out of band handler</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9eabf28</div>
-                                        <div class="message">fix(server): out of band handler</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbf052f</div>
-                                        <div class="message">Merge Remove outdated CEF hooks (mr-230)
-
-- e1ac57b tweak(nui/core): remove outdated CEF hooks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99ee272</div>
-                                        <div class="message">Merge remove ngtcp2 and remove nghttp3 (mr-258)
-
-- 46cc2d5 tweak(vendor/nghttp3): remove nghttp3
-- 6724cbe tweak(vendor/ngtcp2): remove ngtcp2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f97a19c</div>
-                                        <div class="message">Merge Out of band protocol test and fixes (mr-263)
-
-- 2ed8710 fix(server): undefined behavior setCb bool in out of band protocol
-- c43a755 fix(server): missing out of band protocol checks
-- 410d836 feat(tests): add out of band protocol tests
-- 820ace6 tweak(server): make WithOutOfBand testable
-- 4cbf89e feat(tests): add ascii random string gen</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c3d05d</div>
-                                        <div class="message">Merge Improve msgServerEvent handling (mr-267)
-
-- 4474cb2 tweak(server): improve msgServerEvent handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d66a81</div>
-                                        <div class="message">tweak(vendor/enet): remove old enet</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b47bedb</div>
-                                        <div class="message">fix(clrcore-v2): call-in after subsequent scheduling
-
-Fixes an issue where scheduling on later date other than the next frame would result in the scheduler not requesting a call-in
-
-* some extra comments were added to better describe the process</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce2d6ca</div>
-                                        <div class="message">Merge fix(build-tools): fix several compat conversions (mr-270)
-
- - 9510d09d5 fix(build-tools): fix several compat conversions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9510d09</div>
-                                        <div class="message">fix(build-tools): fix several compat conversions
-
-* Better usage explanation
-* Fix returning `Vector3` as `ulong`
-* Fix returning `[ref] Vector3` as `ref ulong`
-* Fix returning `ref ulong` as `Vector3`
-* Add errors for unsecure conversions
-* Removed whitespaces</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4474cb2</div>
-                                        <div class="message">tweak(server): improve msgServerEvent handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e9b87ce</div>
-                                        <div class="message">Merge EAStl recursive submodules fix (mr-266)
-
-- e62b51e tweak(vendor/eastl): update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e62b51e</div>
-                                        <div class="message">tweak(vendor/eastl): update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e7f422</div>
-                                        <div class="message">tweak(vendor/eabase): update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95527ad</div>
-                                        <div class="message">fix(vendor/eastl): recursive submodules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a0fd97</div>
-                                        <div class="message">Merge Add network synced scenes events (mr-225)
-
-- ccb9a81 feat(gamestate/server): add network synced scenes events</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd271ae</div>
-                                        <div class="message">Merge Added exception for sv_disableClientReplays server variable (pr-2452)
-
-- b655da7 fix(ext/cfx-ui): added exception for sv_disableClientReplays server variable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#534eeec</div>
-                                        <div class="message">Merge Ignore in premake generated header files (mr-264)
-
-- fb45f99 fix(vendor/msgpack-c): ignore in premake generated header files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#151ac3e</div>
-                                        <div class="message">Merge Guard yarn instances with mutex to allow concurrent runs (mr-262)
-
-- 045d279 fix(ext/native-doc-gen): guard yarn instances with mutex to allow concurrent runs</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">8 Dec 2024, 04:31:43</div>
                             </section>
                         </div>
                     </section>
